@@ -1,4 +1,4 @@
-#Ciphers
+## Ciphers
 
 A small project I did for uni that can cipher and decipher messages using different encryption methods
 
